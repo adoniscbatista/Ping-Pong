@@ -1,4 +1,4 @@
 # Ping-Pong
-How about a quick ping pong play? I doubt you to win the computer! Want to give it a try?!
+How about a quick game of ping pong play? I doubt you can beat the computer! Want to give it a try?!
 
-This app was develop with a inline script for studies purposes.
+This app was developed with an inline script for studies purposes.
